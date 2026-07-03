@@ -1,0 +1,12 @@
+{
+  "name": "physio-booking",
+  "version": "1.0.0",
+  "description": "Pre-match physio booking for BHTFC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
